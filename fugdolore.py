@@ -1,0 +1,1 @@
+domainHandle = SAMRObject.getDomainHandle('Builtin')
